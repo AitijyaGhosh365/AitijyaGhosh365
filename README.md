@@ -2,7 +2,7 @@
 
 # Aitijya Ghosh
 
-CS undergrad at IEM Kolkata · building AI tooling, mobile apps, and the occasional ML model that places nationally.
+CS undergrad· building AI tooling, mobile apps, and the occasional ML model that places nationally.
 
 <p>
   <a href="https://aitijya.dev">portfolio</a>
