@@ -5,7 +5,7 @@
 CS undergrad· building AI tooling, mobile apps, and the occasional ML model that places nationally.
 
 <p>
-  <a href="https://aitijya.dev">portfolio</a>
+  <a href="https://aitijya.vercel.app">portfolio</a>
   ·
   <a href="https://linkedin.com/in/aitijya-ghosh-98047a293">linkedin</a>
   ·
@@ -35,7 +35,7 @@ Currently shipping React Native at **Silvo Labs**. Outside of work I chase the p
 | **[Claude Chat](https://github.com/AitijyaGhosh365/claude-chat-with-api)** | Self-hosted streaming client for the Anthropic API — Next.js 15 |
 | **[FIFS](https://github.com/AitijyaGhosh365/FIFS)** | ML model that placed **4th nationally** in the FIFS All India competition |
 
-→ The long version lives on **[aitijya.dev](https://aitijya.dev)**.
+→ The long version lives on **[aitijya.dev](https://aitijya.vercel.app)**.
 
 ### Stack
 
