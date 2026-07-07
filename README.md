@@ -35,7 +35,7 @@ Currently shipping React Native at **Silvo Labs**. Outside of work I chase the p
 | **[Claude Chat](https://github.com/AitijyaGhosh365/claude-chat-with-api)** | Self-hosted streaming client for the Anthropic API — Next.js 15 |
 | **[FIFS](https://github.com/AitijyaGhosh365/FIFS)** | ML model that placed **4th nationally** in the FIFS All India competition |
 
-→ The long version lives on **[aitijya.dev](https://aitijyaghosh.vercel.app)**.
+→ The long version lives on **[aitijya.vercel.app](https://aitijyaghosh.vercel.app)**.
 
 ### Stack
 
